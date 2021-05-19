@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+}
+
+#Logo {
+    width: 75%;
+    height: 763px;
+}
+img {
+    width: 350px;
+}
+.avengers {
+    display: inline;
+    
+}#mycarousel {
+    background-color: chartreuse;
+}
+#mycarousel img {
+    height: 300px;
+    margin-top: 30px;
+}
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: darkviolet;
+    font-size: 20px;
+}
